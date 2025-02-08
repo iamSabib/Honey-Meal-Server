@@ -1,7 +1,3 @@
-Here’s a sample README for the Honey Meal server-side project:
-
----
-
 # Honey Meal - Server Side
 
 Honey Meal is a Hostel Management system for university students developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). This server-side part of the project handles the backend logic, including user authentication, meal data management, and payment processing. It works in conjunction with the client-side to provide a complete solution for managing hostel meals, reviews, and premium membership subscriptions.
